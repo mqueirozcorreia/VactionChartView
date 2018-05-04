@@ -1,0 +1,86 @@
+2018-05-04T13:18:21.422Z - info:   [17264] *** FOLDER: c:\Users\mateus.queiroz\Documents\Chapter\Férias\VactionChartView ***
+2018-05-04T13:18:21.425Z - info:   [17264] VSTSVSCode/1.133.0 (VSCode 1.22.2; Windows_NT 6.3.9600; Node 7.9.0)
+2018-05-04T13:18:21.426Z - debug:  [17264] Looking for an External Context at c:\Users\mateus.queiroz\Documents\Chapter\Férias\VactionChartView
+2018-05-04T13:18:21.426Z - debug:  [17264] No External Context at c:\Users\mateus.queiroz\Documents\Chapter\Férias\VactionChartView
+2018-05-04T13:18:21.431Z - debug:  [17264] Looking for TFVC repository at c:\Users\mateus.queiroz\Documents\Chapter\Férias\VactionChartView
+2018-05-04T13:18:21.432Z - debug:  [17264] TFVC Creating Tfvc object with localPath='undefined'
+2018-05-04T13:18:21.433Z - debug:  [17264] Using TFS proxy: 
+2018-05-04T13:18:21.433Z - debug:  [17264] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\TeamExplorer\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2018-05-04T13:18:21.434Z - debug:  [17264] TFVC Repository created with repositoryRootFolder='c:\Users\mateus.queiroz\Documents\Chapter\Férias\VactionChartView'
+2018-05-04T13:18:21.436Z - debug:  [17264] TFVC Repository.CheckVersion
+2018-05-04T13:18:21.438Z - debug:  [17264] TFVC: tf add -noprompt -?
+2018-05-04T13:18:21.450Z - debug:  [17264] TFVC: spawned new process (duration: 11ms)
+2018-05-04T13:18:21.466Z - debug:  [17264] TFVC: spawned new process (duration: 15ms)
+2018-05-04T13:18:25.055Z - debug:  [17264] TFVC: add exit code: 0 (duration: 3617ms)
+2018-05-04T13:18:25.057Z - debug:  [17264] TFVC Minimum required version: 14.102.0
+2018-05-04T13:18:25.057Z - debug:  [17264] TFVC (TF.exe, TF.cmd) version: 15.117.26914.0
+2018-05-04T13:18:25.057Z - debug:  [17264] TFVC Repository.FindWorkspace with localPath='c:\Users\mateus.queiroz\Documents\Chapter\Férias\VactionChartView'
+2018-05-04T13:18:25.058Z - debug:  [17264] TFVC: tf workfold -noprompt c:\Users\mateus.queiroz\Documents\Chapter\Férias\VactionChartView
+2018-05-04T13:18:25.068Z - debug:  [17264] TFVC: spawned new process (duration: 10ms)
+2018-05-04T13:18:26.065Z - debug:  [17264] TFVC: workfold exit code: 100 (duration: 1007ms)
+2018-05-04T13:18:26.067Z - debug:  [17264] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2018-05-04T13:18:26.068Z - error:  [17264] Execution of the TFVC command line failed unexpectedly.
+2018-05-04T13:28:39.179Z - debug:  [17264] Reinitializing due to onDidChangeConfiguration
+2018-05-04T13:28:39.180Z - debug:  [17264] Polling interval value (minutes): 5
+2018-05-04T13:28:39.186Z - info:   [17264] *** FOLDER: c:\Users\mateus.queiroz\Documents\Chapter\Férias\VactionChartView ***
+2018-05-04T13:28:39.186Z - info:   [17264] VSTSVSCode/1.133.0 (VSCode 1.22.2; Windows_NT 6.3.9600; Node 7.9.0)
+2018-05-04T13:28:39.186Z - debug:  [17264] Looking for an External Context at c:\Users\mateus.queiroz\Documents\Chapter\Férias\VactionChartView
+2018-05-04T13:28:39.186Z - debug:  [17264] No External Context at c:\Users\mateus.queiroz\Documents\Chapter\Férias\VactionChartView
+2018-05-04T13:28:39.215Z - debug:  [17264] Reinitializing due to onDidChangeConfiguration
+2018-05-04T13:28:39.218Z - debug:  [17264] Polling interval value (minutes): 5
+2018-05-04T13:28:39.224Z - info:   [17264] *** FOLDER: c:\Users\mateus.queiroz\Documents\Chapter\Férias\VactionChartView ***
+2018-05-04T13:28:39.224Z - info:   [17264] VSTSVSCode/1.133.0 (VSCode 1.22.2; Windows_NT 6.3.9600; Node 7.9.0)
+2018-05-04T13:28:39.224Z - debug:  [17264] Looking for an External Context at c:\Users\mateus.queiroz\Documents\Chapter\Férias\VactionChartView
+2018-05-04T13:28:39.224Z - debug:  [17264] No External Context at c:\Users\mateus.queiroz\Documents\Chapter\Férias\VactionChartView
+2018-05-04T13:28:39.233Z - debug:  [17264] Looking for TFVC repository at c:\Users\mateus.queiroz\Documents\Chapter\Férias\VactionChartView
+2018-05-04T13:28:39.234Z - debug:  [17264] TFVC Creating Tfvc object with localPath='undefined'
+2018-05-04T13:28:39.234Z - debug:  [17264] Using TFS proxy: 
+2018-05-04T13:28:39.235Z - debug:  [17264] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\TeamExplorer\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2018-05-04T13:28:39.236Z - debug:  [17264] TFVC Repository created with repositoryRootFolder='c:\Users\mateus.queiroz\Documents\Chapter\Férias\VactionChartView'
+2018-05-04T13:28:39.238Z - debug:  [17264] TFVC Repository.CheckVersion
+2018-05-04T13:28:39.238Z - debug:  [17264] TFVC: tf add -noprompt -?
+2018-05-04T13:28:39.239Z - debug:  [17264] Looking for TFVC repository at c:\Users\mateus.queiroz\Documents\Chapter\Férias\VactionChartView
+2018-05-04T13:28:39.239Z - debug:  [17264] TFVC Creating Tfvc object with localPath='undefined'
+2018-05-04T13:28:39.239Z - debug:  [17264] Using TFS proxy: 
+2018-05-04T13:28:39.239Z - debug:  [17264] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\TeamExplorer\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2018-05-04T13:28:39.240Z - debug:  [17264] TFVC Repository created with repositoryRootFolder='c:\Users\mateus.queiroz\Documents\Chapter\Férias\VactionChartView'
+2018-05-04T13:28:39.242Z - debug:  [17264] TFVC Repository.CheckVersion
+2018-05-04T13:28:39.242Z - debug:  [17264] TFVC: tf add -noprompt -?
+2018-05-04T13:28:39.436Z - debug:  [17264] TFVC: spawned new process (duration: 193ms)
+2018-05-04T13:28:39.437Z - debug:  [17264] TFVC: spawned new process (duration: 10ms)
+2018-05-04T13:28:39.437Z - error:  [17264] write after end
+2018-05-04T13:28:40.304Z - debug:  [17264] Reinitializing due to onDidChangeConfiguration
+2018-05-04T13:28:40.304Z - debug:  [17264] Polling interval value (minutes): 5
+2018-05-04T13:28:40.311Z - info:   [17264] *** FOLDER: c:\Users\mateus.queiroz\Documents\Chapter\Férias\VactionChartView ***
+2018-05-04T13:28:40.311Z - info:   [17264] VSTSVSCode/1.133.0 (VSCode 1.22.2; Windows_NT 6.3.9600; Node 7.9.0)
+2018-05-04T13:28:40.312Z - debug:  [17264] Looking for an External Context at c:\Users\mateus.queiroz\Documents\Chapter\Férias\VactionChartView
+2018-05-04T13:28:40.312Z - debug:  [17264] No External Context at c:\Users\mateus.queiroz\Documents\Chapter\Férias\VactionChartView
+2018-05-04T13:28:40.319Z - debug:  [17264] Looking for TFVC repository at c:\Users\mateus.queiroz\Documents\Chapter\Férias\VactionChartView
+2018-05-04T13:28:40.319Z - debug:  [17264] TFVC Creating Tfvc object with localPath='undefined'
+2018-05-04T13:28:40.320Z - debug:  [17264] Using TFS proxy: 
+2018-05-04T13:28:40.320Z - debug:  [17264] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\TeamExplorer\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2018-05-04T13:28:40.321Z - debug:  [17264] TFVC Repository created with repositoryRootFolder='c:\Users\mateus.queiroz\Documents\Chapter\Férias\VactionChartView'
+2018-05-04T13:28:40.322Z - debug:  [17264] TFVC Repository.CheckVersion
+2018-05-04T13:28:40.322Z - debug:  [17264] TFVC: tf add -noprompt -?
+2018-05-04T13:28:40.335Z - debug:  [17264] TFVC: spawned new process (duration: 12ms)
+2018-05-04T13:28:48.156Z - debug:  [17264] TFVC: add exit code: 0 (duration: 8918ms)
+2018-05-04T13:28:48.156Z - debug:  [17264] TFVC Minimum required version: 14.102.0
+2018-05-04T13:28:48.157Z - debug:  [17264] TFVC (TF.exe, TF.cmd) version: 15.117.26914.0
+2018-05-04T13:28:48.157Z - debug:  [17264] TFVC Repository.FindWorkspace with localPath='c:\Users\mateus.queiroz\Documents\Chapter\Férias\VactionChartView'
+2018-05-04T13:28:48.157Z - debug:  [17264] TFVC: tf workfold -noprompt c:\Users\mateus.queiroz\Documents\Chapter\Férias\VactionChartView
+2018-05-04T13:28:48.170Z - debug:  [17264] TFVC: spawned new process (duration: 12ms)
+2018-05-04T13:28:50.137Z - debug:  [17264] TFVC: add exit code: 0 (duration: 9815ms)
+2018-05-04T13:28:50.137Z - debug:  [17264] TFVC Minimum required version: 14.102.0
+2018-05-04T13:28:50.137Z - debug:  [17264] TFVC (TF.exe, TF.cmd) version: 15.117.26914.0
+2018-05-04T13:28:50.137Z - debug:  [17264] TFVC Repository.FindWorkspace with localPath='c:\Users\mateus.queiroz\Documents\Chapter\Férias\VactionChartView'
+2018-05-04T13:28:50.137Z - debug:  [17264] TFVC: tf workfold -noprompt c:\Users\mateus.queiroz\Documents\Chapter\Férias\VactionChartView
+2018-05-04T13:28:50.439Z - debug:  [17264] TFVC: spawned new process (duration: 301ms)
+2018-05-04T13:28:51.353Z - debug:  [17264] TFVC: workfold exit code: 100 (duration: 3196ms)
+2018-05-04T13:28:51.353Z - debug:  [17264] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2018-05-04T13:28:51.355Z - error:  [17264] Execution of the TFVC command line failed unexpectedly.
+2018-05-04T13:28:51.638Z - debug:  [17264] TFVC: workfold exit code: 100 (duration: 1500ms)
+2018-05-04T13:28:51.639Z - debug:  [17264] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2018-05-04T13:28:51.639Z - error:  [17264] Execution of the TFVC command line failed unexpectedly.

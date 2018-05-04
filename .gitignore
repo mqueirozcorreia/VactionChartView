@@ -1,0 +1,13 @@
+
+# Created by https://www.gitignore.io/api/code,windows
+
+### Code ###
+# Visual Studio Code - https://code.visualstudio.com/
+.settings/
+.vscode/
+tsconfig.json
+jsconfig.json
+
+JS/googleSpreadSheetId.js
+
+# End of https://www.gitignore.io/api/code,windows
