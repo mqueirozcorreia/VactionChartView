@@ -16,7 +16,7 @@ function onlyUnique(value, index, self) {
 }
 
 function validTeamName(value, index, self) { 
-    return value.indexOf(",") === -1 && onlyUnique(value, index, self);
+    return value.indexOf(",") === -1 && onlyUnique(value, index, self) && value !== "Time";
 }
 
 function handleTeamsQueryResponse(response) {
@@ -35,7 +35,7 @@ function handleTeamsQueryResponse(response) {
         
         var teamSelect = document.getElementById('teamsSelect');
         //Ignorando linha 1, que é o titulo da tabela no Google Plan
-        for (var i=1; i< timeArray.length; i++) {
+        for (var i=0; i< timeArray.length; i++) {
             var option = document.createElement("option");
             option.value = timeArray[i];
             option.text = timeArray[i];
